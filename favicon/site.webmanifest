@@ -1,6 +1,6 @@
 {
-    "name": "",
-    "short_name": "",
+    "name": "Token MultiSender",
+    "short_name": "Save on tx fees with ERC20 MultiSender",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
